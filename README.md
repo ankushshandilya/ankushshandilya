@@ -14,6 +14,12 @@ I am an ingenious and attentive professional custom software developer with over
 
 -->
 
+## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
+</div>
 
 <!--
 **ankushshandilya/ankushshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
