@@ -1,8 +1,8 @@
-### Professional Summary
+## ⚡ My Professional Summary
 
 I am an ingenious and attentive professional custom software developer with over 10 years of expertise in web application development for startups and mid level ventures. Strong background in LAMP FULL STACK using agile, scrum, version control and AWS. Proficient in gathering project specification, problem solving, performance, security, developing databases and UI/UX. 
 
-**Currently I am working on following two major projects as a FULL STACK DEVELOPER**
+### Currently I am working on following two major projects as a FULL STACK DEVELOPER
 
 - PerkZilla - The Viral Reward Platform.
 - CoinDiscovery - CryptoCurrency Data Authority Platform.
