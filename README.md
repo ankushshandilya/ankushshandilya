@@ -7,6 +7,13 @@ I am an ingenious and attentive professional custom software developer with over
 - PerkZilla - The Viral Reward Platform.
 - CoinDiscovery - CryptoCurrency Data Authority Platform.
 
+<!--
+
+![PerkZilla - The Viral Reward Platform](https://cdn.perkzilla.com/q:i/r:0/wp:1/w:450/u:https://perkzilla.com/wp-content/uploads/2020/08/pkz_logo_white.svg)
+![CoinDiscovery - CryptoCurrency Data Authority Platform](http://coindiscovery-staging.us-east-1.elasticbeanstalk.com/img/fav.png)
+
+-->
+
 
 <!--
 **ankushshandilya/ankushshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
