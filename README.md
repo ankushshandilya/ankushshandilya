@@ -3,10 +3,10 @@
 I’m a full-cycle software engineer with **10+ years of experience** in building high-performance, scalable SaaS platforms — including architecture, backend, frontend, DevOps, and AI integrations.
 
 ### I specialize in:
+- ✅ Custom SaaS Development and Scaling.
 - ✅ Custom Laravel apps (REST APIs, multi-tenant SaaS, microservices)
 - ✅ Scalable frontends with React, Inertia.js, and Redux
 - ✅ Redis, MySQL, queues, caching & background jobs
-- ✅ OpenAI, LangChain, Whisper — for AI-powered SaaS features
 - ✅ SOLID principles, clean code, and security-first systems
 
 ---
@@ -54,7 +54,7 @@ Architected and developed crypto listing engine, admin CMS, complex Eloquent que
 
 - ✅ Need a SaaS MVP built fast? I can deliver solo or lead a team.
 - ✅ Modernizing legacy PHP? I specialize in Laravel migrations.
-- ✅ Want AI features in your SaaS? I integrate OpenAI, LangChain, Whisper.
+- ✅ Want AI features in your SaaS? I can integrate OpenAI, LangChain, Whisper.
 - ✅ Need a performance audit or database optimization? Let’s talk.
 
 ---
@@ -64,7 +64,6 @@ Architected and developed crypto listing engine, admin CMS, complex Eloquent que
 - [AnkushShandilya.com](https://ankushshandilya.com) – My blog & personal site  
 - [BehindMethods.com](https://behindmethods.com) – My firm  
 - [LinkedIn](https://www.linkedin.com/in/ankushshandilya)  
-- Email: `contact [at] ankushshandilya [dot] com`
 
 ---
 
